@@ -4,7 +4,7 @@ Front-end, Back-end 직군
 
 ## 2. 채용 공고
 
-#### 2.1 [쿠팡](https://www.wanted.co.kr/wd/118746)
+### 2.1 [쿠팡](https://www.wanted.co.kr/wd/118746)
 
 - 주요업무
 
@@ -24,7 +24,7 @@ Front-end, Back-end 직군
 - 전형절차
   - 서류전형 - 온라인 코딩 면접/전화면접 - 대면면접(VC) - 최종합격
 
-#### 2.2 [카카오페이증권](https://www.jumpit.co.kr/position/9414)
+### 2.2 [카카오페이증권](https://www.jumpit.co.kr/position/9414)
 
 - 주요업무
   - 카카오페이증권 내 서비스 웹 프론트를 개발합니다.
@@ -44,7 +44,7 @@ Front-end, Back-end 직군
 - 전형절차
   - 서류전형 - 사전과제 - Job Interview - Culture Interview - 처우 협의 - 입사
 
-#### 2.3 [현대자동차](https://talent.hyundai.com/apply/applyView.hc?recuYy=2022&recuType=N2&recuCls=559)
+### 2.3 [현대자동차](https://talent.hyundai.com/apply/applyView.hc?recuYy=2022&recuType=N2&recuCls=559)
 
 - 주요업무
   - Backend/Platform Engineer는 모빌리티 서비스 개발 및 운영을 위한 벡앤드 서버 및 기반 플랫폼을 개발합니다. 모빌리티 서비스에 필요한 여러 API를 개발하고 서비스 서버들의 배포, 네트워킹, 로깅, 데이터 파이프라인 등을 위한 기반 플랫폼을 구축합니다.
@@ -62,7 +62,7 @@ Front-end, Back-end 직군
 - 전형절차
   - 지원서 접수 - 서류전형(필요시 pre-interview 진행) - 면접전형(1,2차) - 채용검진 - 최종합격
 
-#### 2.4 [카카오엔터프라이즈](https://jasoseol.com/recruit/65733)
+### 2.4 [카카오엔터프라이즈](https://jasoseol.com/recruit/65733)
 
 - 주요업무
   - End-To-End를 책임지는 신규 데이터 플랫폼 개발
@@ -80,7 +80,7 @@ Front-end, Back-end 직군
   - Kubernetes, Docker 등의 환경 경험
   - Elasticsearch, Solr 등 DB, 검색 기술에 대한 이해
 
-#### 2.5 [토스](https://www.wanted.co.kr/wd/84547)
+### 2.5 [토스](https://www.wanted.co.kr/wd/84547)
 
 - 주요업무
   - 토스의 안팎에서 다양한 웹 서비스를 개발합니다.
